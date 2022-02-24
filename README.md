@@ -10,22 +10,11 @@ A PWA text editor that can run offline.
 
 ### -Motivation:
 
-The motivation behind this project was to make a complete chat application where gamers could connect with other people who play the same games they do.
-
-### -Problems Solved:
-
-Using Node.js and MySQL I was able to setup a database that would allow the addition of users and their preferred game info. I used a table diagram to help map out the organization of table data. Using Socket.io i was able to push chat information to all users in the same chat, this was something we wanted to do without having to refresh the page. In order to authenticate login sessions I use Express-sessions to create and update sessions when a user logs in or out.
+The motivation behind this project was to create a text editor for writing code in that could be used through the browser or as downloaded and used offline as a PWA.
 
 ### -What was Learned:
 
-I learned how to use socket.io to set up web sockets to transfer messages without having to update the webpage. Additionally how to set up routes to and from the frontend and database to relate information and display it appropriately.
-
-### -Technologies Used:
-
-1. Heroku and JawsDB to host the live application.
-2. Mysql2 and Sequelize to maintain the database.
-3. Express.js and Socket.io for middleware.
-4. CSS, Bootstrap, and Handlebars for the front end user interface.
+I learned how to set up Progressive Web Applications in a way that they can be used offline and retain information. This application uses a cache for data retention while offline, and the browser's database otherwise.
 
 ## Table of Contents:
 
