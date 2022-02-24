@@ -2,7 +2,7 @@
 
 ![MIT-Tag](https://shields.io/badge/license-MIT-green)
 
-Use Deployed version here: [Heroku](https://gamer-gabble.herokuapp.com/)
+Use Deployed version here: [Heroku](https://text-editor-mpl.herokuapp.com/)
 
 ## Description:
 
@@ -42,7 +42,7 @@ To install this repository go to [MattpLawrence/Text-Editor](https://github.com/
 
 To use the application open the cloned repository in you text editor to use the integrated terminal. Or, open your terminal and navigate to the root directory of your location of the cloned repository. With Node.js installed type "node.js index.js" then hit "Enter" or "Return" on your keyboard. This will start the application. You will be presented with a series of prompts to fill out. Simply fill out all of the desired prompts to return the information from the database.
 
-Use Deployed version here: [Heroku](https://gamer-gabble.herokuapp.com/)
+Use Deployed version here: [Heroku](https://text-editor-mpl.herokuapp.com/)
 
 ## License: <a name="license"></a>
 
